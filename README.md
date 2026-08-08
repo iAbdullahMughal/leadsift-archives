@@ -14,4 +14,4 @@ Password-protected release archives of the [LeadSift](https://github.com/iAbdull
 
 Install [7-Zip](https://www.7-zip.org/), then:
 
-    7z x LeadSift-v1.0.3-abc1234.zip -p<FULL_COMMIT_SHA>
+    7z x LeadSift-v1.0.3-abc1234.zip -p<PASSWORD>
